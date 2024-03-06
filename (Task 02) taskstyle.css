@@ -1,0 +1,14 @@
+h1{background-color: rgb(172, 161, 235); color: rgb(6, 8, 8);}
+body{background-color: rgb(242, 249, 233);}
+table{border-color: black; background-color: rgb(204, 242, 248); border-radius: 10%;
+    border: 2px solid ;
+}
+td{border: 2px solid;}
+h1{background-color: rgb(194, 194, 235);}
+h2{background-color: rgb(243, 192, 192);}
+h3{background-color: rgb(242, 209, 209);}
+#newaisha{background-color: rgb(249, 233, 213);}
+#newyusma{background-color: rgb(232, 212, 250);}
+#newamna{background-color: rgb(174, 212, 239);}
+#newinshal{background-color: rgb(247, 232, 210);}
+button{background-color: rgb(107, 189, 230); border-radius: 20%; border-color: brown; font-size: larger; font-style: italic;;}
