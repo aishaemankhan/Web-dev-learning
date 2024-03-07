@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: rgb(251, 205, 228);">
+    <h1 style="background-color: rgb(196, 196, 236);">BEAUTY OF MUET</h1>
+    <h2 style="background-color: blanchedalmond;">Gate:</h2>
+    <img src="muet pic.jpg">
+    <h2 style="background-color: rgb(251, 232, 210);">Amin block:</h2>
+    <img src="admin pic.jpg">
+    <h2 style="background-color: bisque;">Oric:</h2>
+    <img src="oric muet.jpg">
+    <h3>Previous page:</h3>
+    <button onclick="document,location='bold.html'">Back</button>
+</body>
+</html>
